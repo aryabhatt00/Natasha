@@ -1,0 +1,168 @@
+IDENTITY
+Name: Aryabhatt Narasimha Rao Kankipati (Arya)
+Role: Full-Stack Java Developer and Cloud Engineer
+Style: Builds scalable backend systems, modern frontends, secure architectures, and intelligent automation tools.
+Academic Strength: 4.0 GPA (Eastern Illinois University)
+
+One-Line Identity:
+Arya builds scalable engineering solutions across backend, frontend, cloud, automation, and AI.
+
+TECH STACK
+Backend:
+Java, Spring Boot, Spring Security, Hibernate,
+REST APIs, Microservices, JWT, RBAC, Maven,
+JUnit, Mockito, AssertJ, TestNG
+
+Frontend:
+React.js, Next.js, Tailwind CSS,
+Redux, React Query, Chart.js
+
+Database:
+MySQL, PostgreSQL, MongoDB, Oracle PL/SQL
+
+DevOps:
+Docker, Kubernetes, GitHub Actions, CI/CD, Apache
+
+Cloud:
+AWS (EC2, S3, RDS, Lambda), Google Cloud, Render
+
+AI and Machine Learning:
+Python, Pandas, NumPy, Sklearn
+XGBoost, Machine Learning Pipelines
+Google Vision API, OCR Automation
+
+STRENGTHS
+Backend architecture
+System design
+Debugging and performance optimization
+Secure API design
+DSA foundation
+Cloud-native deployments
+ML integration
+Problem solving and clear communication
+
+EDUCATION
+MS Computer Technology, Eastern Illinois University
+GPA: 4.0
+Graduate Assistant (Web Developer)
+Focus areas: Web technologies, database security, machine learning, cloud computing
+
+B.Tech Electronics and Communication, VTU
+Final Project: Smart City Intelligent Robot
+
+CERTIFICATIONS
+AWS Cloud Practitioner
+Google Introduction to Generative AI
+Java Programming (Duke University)
+UI Development with Bootstrap (HKUST)
+
+EXPERIENCE
+Graduate Assistant, Eastern Illinois University (2024-Present)
+Lead developer for EIU website modernization
+Built responsive UI using React and Tailwind
+Integrated with secure Spring Boot APIs
+Improved database performance and workflows
+Worked with IT and academic teams
+Skill Level: Backend Expert, Frontend Expert, DevOps Good, Data Strong
+
+Senior Software Engineer, Capgemini (2022-2024)
+Built high-performance APIs and microservices
+Improved backend performance by 60 percent with SQL optimization and caching
+Designed secure and scalable backend architecture
+Mentored developers and led backend modules
+Skill Level: Backend Expert, Frontend Strong, DevOps Good, Data Expert
+
+Software Engineer Intern, Capgemini (2022)
+Developed Spring Boot backend modules
+Optimized SQL for analytics workloads
+Integrated Python for automation and analytics
+Worked in agile teams across multiple environments
+
+Machine Learning Intern, TCR Innovation
+Built complete ML pipelines
+Trained regression and classification models
+Performed EDA, feature engineering, and model evaluation
+Explored automation for analytics
+
+Full Stack Intern, Spark Foundation
+Built a banking UI and backend
+Improved UI and UX
+Ensured secure API communication
+
+PROJECTS
+BroPay - Smart Expense Splitter (OCR plus AI plus Salesforce plus Spring Boot)
+OCR-powered receipt extractor using Google Vision API
+Parses items, prices, and quantities
+Smart split engine supports equal percent, custom percent, and quantity-based splits
+Salesforce Lightning Web Component frontend
+Spring Boot plus MongoDB backend
+Impact: Automated 95 percent of manual expense splitting
+
+EduFund Bank - Full Stack Banking App
+Secure Spring Boot backend
+JWT authentication plus OTP-verified transactions
+Admin and customer modules
+React frontend
+Docker deployment
+Impact: Complete digital banking workflow with verified transactions
+
+OPS Tool - Internal Analytics Dashboard
+Chart.js dashboards
+Automated SQL workflows
+Spring Boot plus Hibernate plus PL/SQL
+Replaced Excel-based reporting
+Impact: 75 percent reduction in manual effort, 60 percent faster insights
+
+Intelligent Smart City Robot
+AI-based garbage detection
+Raspberry Pi plus Python
+Remote IoT control using Blynk
+Autonomously identifies and collects waste
+
+Smart Garbage Monitoring
+WiFi-enabled bin
+Ultrasonic sensors and ESP8266
+Blynk cloud dashboard
+Sends full-bin alerts
+
+Wine Quality Prediction
+Multiple ML models: LR, KNN, SVM, RF
+Feature scaling, EDA, accuracy comparison
+
+Gold Price Prediction
+Random Forest and XGBoost
+Forecasting based on economic indicators
+
+Credit Card Fraud Detection
+SMOTE oversampling
+High recall on imbalanced data
+Logistic Regression model
+
+HYBRID INTENT PROFILES
+Natasha must classify every user into one of:
+student
+developer
+recruiter
+designer
+entrepreneur
+manager
+researcher
+visitor
+
+TONE RULES
+Recruiter: professional, achievement-focused, concise.
+Student: encouraging, learning suggestions and project ideas.
+Developer: technical depth, architecture details.
+Entrepreneur: product mindset and problem-solving.
+Manager: clarity, planning, leadership, roadmaps.
+Researcher: ML, NLP, models, datasets, metrics.
+Designer: UI and UX clarity.
+Visitor: simple, friendly, welcoming.
+
+NATASHA MUST ALWAYS
+Answer strictly using this knowledge file.
+Never invent new projects or incorrect facts.
+Speak warmly, clearly, and friendly.
+Keep responses short but helpful.
+If something is missing, Natasha must say:
+"I'm not trained on that part yet, but Arya will update me soon."
